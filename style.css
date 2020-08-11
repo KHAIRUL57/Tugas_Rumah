@@ -1,0 +1,39 @@
+body {
+    background: gainsboro;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto; top: 500px;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+/* class table */
+.table1 {
+    background-color: aqua;
+}
+.table2 {
+    background-color: cornflowerblue;
+}
+/* class jam */
+.jam {background-color: salmon;}
+.jam1 {background-color: skyblue;}
+.jam2 {background-color: tomato;}
+/* class mapel */
+.mapel {background-color: violet;}
+.mapel1 {background-color: yellow;}
+.mapel2 {background-color: aqua;}
+.mapel3 {background-color: aquamarine;}
+.mapel4 {background-color: royalblue;}
+.mapel5 {background-color: silver;}
+.mapel6 {background-color: springgreen;}
+.mapel7 {background-color: red;}
+.mapel8 {background-color: orchid;}
+.mapel9 {background-color: powderblue;}
+.mapel10 {background-color: rebeccapurple;}
+.mapel11 {background-color: deeppink;}
+.mapel12 {background-color: gold;}
+.mapel13 {background-color: goldenrod;}
